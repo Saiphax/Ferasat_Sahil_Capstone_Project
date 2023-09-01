@@ -28,6 +28,7 @@ function DropdownMenu() {
               data-bs-toggle="dropdown"
               data-bs-display="static"
               aria-expanded="false"
+              style={{ backgroundColor: 'darkred' }}
             >
               Menu
             </button>
